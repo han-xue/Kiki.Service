@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiki.CourierService", "Kiki.CourierService\Kiki.CourierService.csproj", "{81A46FD5-89CB-44D4-BD62-44625DE7A50B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiki.CourierService.Database", "Kiki.CourierService.Database\Kiki.CourierService.Database.csproj", "{A86576F5-EB01-4388-BCEB-D0D330C495D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiki.CourierService.Shared", "Kiki.CourierService.Shared\Kiki.CourierService.Shared.csproj", "{E6E12675-3C3B-4284-B77C-C6DEEA64179F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiki.CourierService.Api", "Kiki.CourierService.Api\Kiki.CourierService.Api.csproj", "{6F7BD643-811B-496C-8B22-AB0782A0744A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiki.CourierService.Api.Tests", "Kiki.CourierService.Api.Tests\Kiki.CourierService.Api.Tests.csproj", "{FC7859CB-AAFF-478C-9C35-4A6AADC453D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A46FD5-89CB-44D4-BD62-44625DE7A50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A46FD5-89CB-44D4-BD62-44625DE7A50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A46FD5-89CB-44D4-BD62-44625DE7A50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A46FD5-89CB-44D4-BD62-44625DE7A50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86576F5-EB01-4388-BCEB-D0D330C495D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86576F5-EB01-4388-BCEB-D0D330C495D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86576F5-EB01-4388-BCEB-D0D330C495D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86576F5-EB01-4388-BCEB-D0D330C495D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E12675-3C3B-4284-B77C-C6DEEA64179F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E12675-3C3B-4284-B77C-C6DEEA64179F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E12675-3C3B-4284-B77C-C6DEEA64179F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E12675-3C3B-4284-B77C-C6DEEA64179F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7BD643-811B-496C-8B22-AB0782A0744A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7BD643-811B-496C-8B22-AB0782A0744A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7BD643-811B-496C-8B22-AB0782A0744A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7BD643-811B-496C-8B22-AB0782A0744A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7859CB-AAFF-478C-9C35-4A6AADC453D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7859CB-AAFF-478C-9C35-4A6AADC453D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7859CB-AAFF-478C-9C35-4A6AADC453D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7859CB-AAFF-478C-9C35-4A6AADC453D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225E00C1-1C52-452E-832F-A207ED820C69}
+	EndGlobalSection
+EndGlobal

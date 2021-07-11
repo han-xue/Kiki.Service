@@ -1,0 +1,1 @@
+rh /d=KikiCourierService /f=scripts /s="(LocalDb)\mssqllocaldb" /silent /env LOCAL
